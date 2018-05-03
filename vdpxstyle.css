@@ -217,17 +217,14 @@ a.home-link:hover{color:#212121;}
 .post-footer{margin-top:0px;margin-bottom:30px;padding:20px 15px 0px 15px;font-size:13px;}
 .post_tag a{margin-bottom:5px;margin-right:5px;padding:0.7em 0.9em;font-weight:normal;color:#666666 !important;text-decoration:none;text-shadow:0 1px 1px #FFFFFF;box-shadow:0 1px 1px rgba(0, 0, 0, 0.1);background-color:#f8f8f8;border-radius:2px;}
 .post_tag a:hover{text-decoration:none;background-color:#F72C17;color:#FFFFFF!important;opacity:1;text-shadow:0 1px 1px rgba(0, 0, 0, 0.3);}
-
 /* Footer */
 div#footer a{color:#212121;}
 #footer{width:100%;margin:0px 0px 0px 0px;padding:0px 10px 0px 10px;font-size:0.9em;color:#000000;border-top:1px solid #F1F1F1;border-bottom:1px solid #F1F1F1;background:#FEFEFE;}
 .rowbgfoot{background:#FEFEFE;}
-
 /* footlink */
 .footercontainer{min-width:100%;margin-right:auto;margin-left:auto;padding:0px 2% 20px 2%;position:relative;}
 .footlinkcore{min-width:100%;background:#FBFBFB;}
 p.cpyrght{margin:5px 0px 0px 0px;}
-
 .contaccrdn,.rowaccrdn{min-width:100%;padding:0px 2% 0px 2%;background:transparent;}
 .pad-top {padding-top:40px;}
 .panel{-webkit-box-shadow:none;box-shadow:none;}
@@ -247,7 +244,6 @@ h4 a.collapsed.accrdn_ttle:hover{color:#D12311!important;text-decoration:none;}
 .social-networks.rounded li a i{display: block;font-size:20px;color:#fff;text-shadow:none;top:50%;left:50%;position:absolute;-webkit-transform: translate(-50%,-50%);-moz-transform: translate(-50%,-50%);-ms-transform: translate(-50%,-50%);-o-transform: translate(-50%,-50%);transform: translate(-50%,-50%);}
 .social-networks.rounded li a:hover {background-color:#212121;}
 .social-networks.rounded li a span{display: none;}
-
 #footlink{margin:0px auto;padding-top:10px;padding-bottom:10px;width:100%;font-size:12px;background:#FBFBFB;color:#000000;}
 #footlink a{color:#000000;text-decoration:none;}
 #footlink a:hover{color:#D12311;text-decoration:none;}
@@ -259,13 +255,18 @@ ul.sosmedba li.ftrsosmedicon a{margin:0px 0px 0px 0px;padding:5px;font-size:12px
 ul.sosmedba li.ftrsosmedicon a:hover{color:#F72C17!important;background:#F9F9F9;}
 ul.sosmedul{padding: 0px 0px 0px 0px;background:#FEFEFE;}
 ul.sosmedul li{width:20%!important;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}
-
 .sosmedcov{margin:40px 0px 0px 0px;padding:0;}
 .sosmed_ttle{margin:0px 0px 20px 0px;font-size:1rem;font-weight:bold;letter-spacing:.04rem;}
 .sosmed{position:relative;height:100%;padding:0;}
 .dpttle{text-align:justify;font-size:14px;font-style:normal;font-variant:normal;font-family:&quot;AvenirBook&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;line-height:20px;letter-spacing:.1rem;}
 p.unselectable{margin:0;-webkit-touch-callout: none;-webkit-user-select: none;-khtml-user-select: none;-moz-user-select: none;-ms-user-select: none;-o-user-select: none;user-select: none;}
 
+/* Media */
+@media (min-width: 992px){}
+@media (max-width: 992px){.addmrgnt1rem{margin:1rem 0rem 0rem 0rem;}.navbar{padding:0rem 1rem 0rem 1rem;}}
+@media only screen and (max-width: 991px){
+ul.recent-posts-container li{min-height:350px;}.singblnjpaddsb{margin:40px 0px 0px 0px;}.itmmaindskrp{width:100%;padding: 0px 0px 0px 0px;}.btstdnll{padding:0px 0px 0px 0px!important;}.itmsclpddngnllstd{padding:0px 0px 0px 0px!important;}.itmscbpddngnll{padding:0px 0px 0px 0px;}.blog-content .col-md-9, .blog-content .col-md-3, #footer [class*=&quot;col-&quot;] {width: 100%;}.sidebarwrppr{width:100%;padding:0px 15px 0px 15px;}} 
+@media (max-width: 991px){.nav-link{padding:.5rem 0rem .5rem 0rem;}.lftrmvtobttm{display:none!important;}.Logofootercov{padding:0px 0px 10px 0px;}}
 
 
 
