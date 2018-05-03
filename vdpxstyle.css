@@ -22,3 +22,18 @@ textarea:focus,input:focus,input[type]:focus,.form-control:focus,.uneditable-inp
 textarea.form-control{border-color:#efefef;}
 img{border-style:none;}
 
+.pddngnll{padding:0px 0px 0px 0px;}
+.pddngnllmx{padding:0px 2% 0px 2%;}
+.pddngnllstd{padding:0px 0px 0px 0px;}
+.pddngnllsc{padding:0px 0px 0px 0px;}
+.pddngaccrdn{padding:0px 10px 0px 10px;}
+.pddngnrml{padding:0px 15px 0px 15px;}
+.bgdflt{min-width:100%;background:#FFFFFF;}
+.rmvdv{display:none!important;}
+.clear{clear:both;}
+.pddngnrml{padding:0px 15px 0px 15px;}
+.fltrght{float:right;}
+.txtal{text-align:left;}
+.bgred{background:#D12311;}
+.bgwhite{background:#FEFEFE!important;}
+.navbgwhite{background:#FFFFFF;}
