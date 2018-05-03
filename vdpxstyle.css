@@ -41,7 +41,14 @@ input.form-control{background:#FBFBFB;border-color:#F7F7F7;}
 .txtshdw{text-shadow:0px -1px 1px #91180C;}
 #wrapper{}
 .top_wrapper{margin-bottom:0px;}
-
+.header_wrapper{padding-top:0px;position:relative;z-index:100;background:#ffffff;}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary{display:block;}
+.navbar-brand{margin:0px 10px 0px 0px;padding:14px 15px 15px 15px;background:#D12311;border:2px solid #B71F0F;}
+.nav-link{padding:1.23rem 0rem 1.4rem 0rem;font-size:1.125rem;font-weight:bold;color:#D12311;text-shadow:0px -1px 1px #FFFFFF;}
+a.nav-link:hover{color:#F72C17;background:#FFFFFF;text-shadow:0px -1px 1px #FFFFFF;}
+h1.sitebrand{margin:0px 0px 0px 0px;padding:0px 15px 0px 0px;text-decoration:none;}
+h1.sitebrand a{margin:0px 0px 0px 0px;padding:17px 0px 24px 0px;font-size:24px;line-height:inherit;color:#D12311 ;text-decoration:none;text-shadow:0px -1px 1px #FFFFFF;}
+h1.sitebrand a:hover{text-decoration:none;}
 
 
 
