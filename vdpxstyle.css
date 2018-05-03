@@ -115,7 +115,6 @@ label{max-width:100%;margin:0px 0px 5px 0px;font-size:15px;font-family:&#39;Open
 .btnshop_ers{position:relative;color:#fff;background:#da4453;}
 .btnshop_ers:hover,.btnshop_ers:focus,.btnshop_ers:active{color:#fff;background:#F44C5D;}
 .ctctwrngsign{margin: 0 auto;padding:10px 0px 5px 0px;width:100%;top:20px;position:relative;color:#000;text-align:center;text-transform:uppercase;} 
-
 .content_grid{width:100%;min-height:400px;padding:12px 15px 0px 15px;position:relative;}
 .colprdksection{margin:35px 0px 0px 0px;}
 .postcov{margin:0px 0px 30px 0px;}
@@ -219,7 +218,10 @@ a.home-link:hover{color:#212121;}
 .post_tag a{margin-bottom:5px;margin-right:5px;padding:0.7em 0.9em;font-weight:normal;color:#666666 !important;text-decoration:none;text-shadow:0 1px 1px #FFFFFF;box-shadow:0 1px 1px rgba(0, 0, 0, 0.1);background-color:#f8f8f8;border-radius:2px;}
 .post_tag a:hover{text-decoration:none;background-color:#F72C17;color:#FFFFFF!important;opacity:1;text-shadow:0 1px 1px rgba(0, 0, 0, 0.3);}
 
-
+/* Footer */
+div#footer a{color:#212121;}
+#footer{width:100%;margin:0px 0px 0px 0px;padding:0px 10px 0px 10px;font-size:0.9em;color:#000000;border-top:1px solid #F1F1F1;border-bottom:1px solid #F1F1F1;background:#FEFEFE;}
+.rowbgfoot{background:#FEFEFE;}
 
 
 
