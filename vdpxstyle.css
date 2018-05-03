@@ -275,7 +275,35 @@ ul.recent-posts-container li{min-height:350px;}.singblnjpaddsb{margin:40px 0px 0
 @media (max-width: 767px){.footercontainer{width:100%;padding:0px 5px 30px 5px;}.footlinkcore{padding:0px 10px 0px 10px;}ul.sosmedba li.ftrsosmedicon a{margin:0px 0px 0px 15px;}.txtsosmed_ttlemod{margin:0px 0px 20px 0px;float:left;position:relative;left:4%;}}
 @media (min-width: 768px){.footlinkcore{padding:0px 2% 0px 2%;}}
 
-
+/*<!--Blog Start-->*/
+.bgmainpostbody{background:#FFFFFF;border-left:30px solid #FBFBFB;}
+.postcatbox{padding:10px 7px 0px 7px;display:block;font-size:1rem;}
+.postcatbox a{display:block;color:#333333;font-weight:bolder;text-transform:capitalize;text-decoration:none;}
+.postcatbox a:hover{color:#F72C17;}
+.metabttm{position:absolute;bottom:3%;left:1%;z-index:1;}
+.metabttm .shrsm .fbsm{padding:5px 10px;background-color:#003471;}
+.metabttm .shrsm .twsm{padding:5px 10px;background-color:#00BFF3;}
+.metabttm .shrsm{font-size:14px;}
+.metabttm .shrsm a{color:#fff;margin-left:4px;border-radius:2px;display:inline-block;margin-right:0;height:auto;width:auto;}
+.metabttm .shrsm i{color:#fff;}
+.metabttm .shrsm span{display:none;}
+.fa-facebook-square:before{content:"\f082";top:0px;position:relative;text-shadow:none;}
+.fa-twitter-square:before{content:"\f081";top:0px;position:relative;text-shadow:none;}
+.addmrgntop{margin-top:10px;}
+.addmspace{margin:40px 0px 40px 0px;}
+.large_thumb{position:relative;max-height:none;}
+.img_wrapper{padding-bottom:0;max-height:none;}
+.thumb{top:0;left:0;margin:0 auto;min-width:0;width:100%!important;min-height:240px!important;height:300px;display: block;position:relative;}
+.postinnrcov{min-height:180px;margin:0px 0px 0px 0px;overflow:hidden;background:#FFFFFF;}
+h3.post_item_title{min-height:65px;margin:0px 0px 0px 0px;font-size:1.875rem;font-weight:bold;text-indent:1px;position:relative;display:block;overflow:hidden;}
+h3.post_item_title a{padding:10px 7px 10px 7px;display:block;text-transform:capitalize;color:#000;line-height:2rem;text-decoration:none;overflow:hidden;}
+h3.post_item_title a:hover{color:#D12311;}
+.post_meta{display:block;font-size:12px;}
+.post_item_inner{padding:0px 7px 0px 7px;font-size:1.3rem;line-height:1.7rem;font-weight:normal;display:block;text-transform:none;}
+.pthumb img{min-height:165px;object-fit:cover;}
+.shdweffct{margin:0;padding:0;display:block;}
+img.Logofooter{margin:0px 0px 0px 0px;width:100%;display:block;}
+.Logofootercov{background:#FEFEFE;}
 
 
 
