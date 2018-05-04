@@ -1,6 +1,6 @@
 $(document).ready(function(e) {
 window.onload=function(){$('.xdiv').remove();$('#categclmn').css('display', 'none');};
-$('.recent-post-thumb,.indxrecent-post-thumb').attr('src', function(i, src) {return src.replace( 's72-c', 's2048' );});
+$('.recent-post-thumb,.indxrecent-post-thumb,.indxrecent-artklpost-thumb').attr('src', function(i, src) {return src.replace( 's72-c', 's2048' );});
 $(window).scroll(function () {$(this).scrollTop() ? $(".gototop").fadeIn() : $(".gototop").fadeOut()}), $(".gototop").click(function () {$("html,body").animate({scrollTop: 0}, 500)})
 var src = $('.featimg').attr('src');
 $('img#itmmainImage').attr('src','' + src + '');
