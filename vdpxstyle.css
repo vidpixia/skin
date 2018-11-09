@@ -337,8 +337,8 @@ ul.sosmedba li.ftrsosmedicon a{margin:0px 0px 0px 0px;padding:5px 5px 5px 2px;fo
 ul.sosmedba li.ftrsosmedicon a:hover{color:#F72C17!important;}
 ul.sosmedul{padding: 0px 0px 0px 0px;background:#FEFEFE;}
 ul.sosmedul li{width:20%!important;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}
-.sosmedcov{margin:40px 0px 0px 0px;padding:0;}
-.sosmed_ttle{margin:0px 0px 20px 0px;font-size:1.2rem;font-weight:bold;letter-spacing:.02rem;}
+.sosmedcov{margin:50px 0px 0px 0px;padding:0;}
+.sosmed_ttle{margin:0px 0px 8px 0px;font-size:14px;font-weight:bold;letter-spacing:normal;}
 .sosmed{position:relative;height:100%;padding:0;}
 .dpttle{text-align:justify;font-size:14px;font-style:normal;font-variant:normal;font-family:"AvenirBook","Helvetica Neue",Helvetica,Arial,sans-serif;line-height:20px;letter-spacing:.1rem;}
 p.unselectable{margin:0;-webkit-touch-callout: none;-webkit-user-select: none;-khtml-user-select: none;-moz-user-select: none;-ms-user-select: none;-o-user-select: none;user-select: none;}
