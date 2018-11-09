@@ -61,10 +61,10 @@ background:#D12311;
 border:2px solid #B71F0F;
 }
 .nav-link{
-padding:1.23rem 0rem 1.4rem 0rem;
-font-size:1.125rem;
-font-weight:bold;
-color:#D12311;
+padding:22px 0rem 22px 0rem;
+font-size:15px;
+font-weight:400;
+color:#212121;
 text-shadow:0px -1px 1px #FFFFFF;
 }
 a.nav-link:hover{
