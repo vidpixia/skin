@@ -297,9 +297,11 @@ a.home-link:hover{color:#212121;}
 .blog-pager{background:none;text-decoration:none;}
 .displaypageNum a,.showpage a,.pagecurrent{padding:10px 15px;margin-right:5px;font-size:14px;font-weight:600;float:none;color:#000;background:#f9f9f9;text-decoration:none;border-radius:2px;}
 .displaypageNum a:hover,.showpage a:hover,.pagecurrent{background:#e26154;text-decoration:none;color:#fff;text-shadow:0 -1px 1px rgba(0, 0, 0, 0.14);}
-.showpageOf{text-decoration:none;display:none!important}.post-footer{margin-top:0px;margin-bottom:30px;padding:20px 15px 0px 15px;font-size:13px;}
-.post_tag a{margin-bottom:5px;margin-right:5px;padding:0.7em 0.9em;font-weight:normal;color:#666666 !important;text-decoration:none;text-shadow:0 1px 1px #FFFFFF;box-shadow:0 1px 1px rgba(0, 0, 0, 0.1);background-color:#f8f8f8;border-radius:2px;}
-.post_tag a:hover{text-decoration:none;background-color:#F72C17;color:#FFFFFF!important;opacity:1;text-shadow:0 1px 1px rgba(0, 0, 0, 0.3);}
+.showpageOf{text-decoration:none;display:none!important}
+.post-footer{margin-top:0px;margin-bottom:30px;padding:20px 15px 0px 15px;font-size:13px;}
+.post_tag{font-size:14px;}
+.post_tag a{margin-bottom:5px;margin-right:5px;font-weight:normal;font-size:14px;color:#666666!important;text-decoration:none;text-shadow:0 1px 1px #FFFFFF;}
+.post_tag a:hover{text-decoration:underline;color:#000!important;opacity:1;text-shadow:0 1px 1px rgba(0, 0, 0, 0.3);}
 
 /* Footer */
 div#footer a{color:#212121;}
