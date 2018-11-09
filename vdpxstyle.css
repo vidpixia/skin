@@ -132,9 +132,12 @@ transition:all 0.25s ease-in-out;
 .fa-info-circle:before{content:"\f05a";font-size:20px;top:0px;position:relative;text-shadow:0 -1px 1px #fff;}
 .fa-indx-youtube-play:before{content:"\f16a";padding:20px 0px 0px 20px;font-size:0.8rem;color:#FEFEFE;position:absolute;top:0px;left:0px;z-index:2;}
 .fa-indx-file-text-o:before{content:"\f0f6";padding:20px 0px 0px 20px;font-size:0.8rem;color:#FEFEFE;position:absolute;top:0px;left:0px;z-index:2;}
-.fa-indx-youtube-play:hover:before,.fa-indx-file-text-o:hover:before{color:#FFFFFF;}.tophr{margin:20px 0px 0px 0px;}.tophrsl{margin:-15px 0px 0px 0px;font-weight:normal;}
-.breadcrumbs{margin:0px 0px 0px 0px;font-size:0.875rem;line-height:20px;letter-spacing:normal;color:#444;text-transform:capitalize;background:transparent;}
-.breadcrumbs>li{color:#000000;}.breadcrumbs a{color:#000000;text-decoration:none;}
+.fa-indx-youtube-play:hover:before,.fa-indx-file-text-o:hover:before{color:#FFFFFF;}
+.tophr{margin:20px 0px 0px 0px;}
+.tophrsl{margin:-15px 0px 0px 0px;font-weight:normal;}
+.breadcrumbs{margin:0px 0px 0px 0px;font-size:0.875rem;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;line-height:20px;letter-spacing:normal;color:#444;text-transform:capitalize;background:transparent;}
+.breadcrumbs>li{color:#000000;}
+.breadcrumbs a{font-size:0.875rem;color:#000000;text-decoration:none;}
 .breadcrumbs a:hover{color:#D12311;text-decoration:none;}
 hr{margin:0px 0px 20px 0px;border:0;border-top:1px solid #F9F9F9;}
 h1.mainpost{margin:0px 0px 20px 0px;line-height:1.8rem;}
