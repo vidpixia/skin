@@ -319,7 +319,7 @@ ul.recent-posts-container li{min-height:350px;}
 .dropdown-menu{position:relative;float:none;border:none;box-shadow:none;-webkit-box-shadow:none;background:#fff;}
 .container-fluid>.navbar-collapse,.container-fluid>.navbar-header,.container>.navbar-collapse,.container>.navbar-header{margin-right:0;margin-left:0}
 #PopularPosts1 img{margin:0px 15px 0px 5px;}
-#footer [class*="col-"] {padding-left:15px !important;padding-right:15px !important;}
+#footer [class*="col-"] {padding-left:15px;padding-right:15px;}
 #footer{padding:0px 5px 0px 5px;}
 .navbar-nav .open .dropdown-menu{background-color:#FEFEFE;}
 .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover{color:#333;background-color:#f8f8f8;}
