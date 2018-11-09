@@ -46,10 +46,10 @@ input.form-control{background:#FBFBFB;border-color:#F7F7F7;}
 .header_wrapper{padding-top:0px;position:relative;z-index:100;background:#ffffff;}
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary{display:block;}
 .navbar-brand{margin:0px 10px 0px 0px;padding:14px 15px 15px 15px;background:#D12311;border:2px solid #B71F0F;}
-.nav-link{padding:22px 0rem 22px 0rem;font-size:15px;font-weight:bold;color:#212121;text-shadow:0px -1px 1px #FFFFFF;}
+.nav-link{padding:6px 0px 0px 0px;font-size:15px;font-weight:bold;color:#212121;text-shadow:0px -1px 1px #FFFFFF;}
 a.nav-link:hover{color:#F72C17;background:#FFFFFF;text-shadow:0px -1px 1px #FFFFFF;}
 h1.sitebrand{margin:0px 0px 0px 0px;padding:0px 15px 0px 0px;text-decoration:none;}
-h1.sitebrand a{margin:0px 0px 0px 0px;padding:17px 0px 24px 0px;font-size:24px;font-weight:normal;line-height:inherit;color:#D12311;text-decoration:none;text-shadow:0px -1px 1px #FFFFFF;}
+h1.sitebrand a{margin:0px 0px 0px 0px;position:relative;top:-3px;font-size:24px;font-weight:normal;line-height:inherit;color:#D12311;text-decoration:none;text-shadow:0px -1px 1px #FFFFFF;}
 h1.sitebrand a:hover{text-decoration:none;}
 .fa-bars_rspnsv:before{content:"\f0c9";margin:0px 2px 0px 0px;color:#000000;font-size:20px;top:0px;position:relative;text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.14);}
 .fa-times_rspnsv:before{content:"\f00d";font-size:20px;top:0px;position:relative;text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.14);}
