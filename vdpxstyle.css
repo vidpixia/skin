@@ -325,9 +325,10 @@ h4 a.collapsed.accrdn_ttle:hover{color:#D12311!important;text-decoration:none;}
 .social-networks.rounded li a i{display: block;font-size:20px;color:#fff;text-shadow:none;top:50%;left:50%;position:absolute;-webkit-transform: translate(-50%,-50%);-moz-transform: translate(-50%,-50%);-ms-transform: translate(-50%,-50%);-o-transform: translate(-50%,-50%);transform: translate(-50%,-50%);}
 .social-networks.rounded li a:hover {background-color:#212121;}
 .social-networks.rounded li a span{display: none;}
-#footlink{margin:0px auto;padding-top:10px;padding-bottom:10px;width:100%;font-size:12px;background:#FBFBFB;color:#000000;}
-#footlink a{color:#000000;text-decoration:none;}
-#footlink a:hover{color:#F72C17;text-decoration:none;}
+#footlink{margin:0px auto;padding-top:20px;padding-bottom:20px;width:100%;font-size:12px;font-weight:400;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;background:#FBFBFB;color:#000000;}
+#footlink a{font-size:12px;color:#000000;text-decoration:none;}
+#footlink a:hover{text-decoration:underline;}
+
 .gototop{display:none;}
 .gototop-inner{z-index:999;position:fixed;width:40px;height:40px;background-color:#D12311;font-size:30px;line-height:35px;text-align:center;color:#FFF;top:auto;left:auto;right:15px;bottom:60px;cursor:pointer;border-radius:2px;text-shadow:0 -1px 1px rgba(0, 0, 0, 0.14);-webkit-transition: all 0.4s ease 0s;-moz-transition: all 0.4s ease 0s;-o-transition: all 0.4s ease 0s;transition: all 0.4s ease 0s;}
 .gototop-inner:hover{background-color:#F72C17;}
@@ -629,11 +630,14 @@ img.img-fluid{min-height:400px;}
 .ppcol-md-6 {-ms-flex: 0 0 50%;flex: 0 0 50%;max-width: 50%;}
 .ppcol-md-8 {-ms-flex: 0 0 66.666667%;flex: 0 0 66.666667%;max-width: 66.666667%;}
 }
+
 @media (min-width: 1200px){
 .ppcol-lg-6{-ms-flex: 0 0 50%;flex: 0 0 50%;max-width: 50%;}
 .ppcol-lg-12{-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
 }
+
 .colheight-sm-1,.colheight-sm-2,.colheight-sm-3 {height: 155px;-webkit-transition: all 0.2s linear;-moz-transition: all 0.2s linear;-ms-transition: all 0.2s linear;-o-transition: all 0.2s linear;}
+
 @media (min-width: 992px){
 .colheight-sm-1 {height: 175px;}
 .colheight-sm-2 {height: 350px;}
@@ -641,6 +645,7 @@ img.img-fluid{min-height:400px;}
 .colheight-md-2 {height: 350px;}
 }
 @media (min-width: 1200px){
+.containermax{max-width:100%;padding:0px 50px 0px 50px;}
 .colheight-sm-1,.colheight-md-1 {height: 200px;}
 .colheight-sm-2,.colheight-md-2 {height: 400px;}
 .colheight-lg-2 {height: 400px;}
