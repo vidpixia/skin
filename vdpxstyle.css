@@ -330,15 +330,16 @@ h4 a.collapsed.accrdn_ttle:hover{color:#D12311!important;text-decoration:none;}
 #footlink a:hover{text-decoration:underline;}
 
 .gototop{display:none;}
-.gototop-inner{z-index:999;position:fixed;width:40px;height:40px;background-color:#D12311;font-size:30px;line-height:35px;text-align:center;color:#FFF;top:auto;left:auto;right:15px;bottom:60px;cursor:pointer;border-radius:2px;text-shadow:0 -1px 1px rgba(0, 0, 0, 0.14);-webkit-transition: all 0.4s ease 0s;-moz-transition: all 0.4s ease 0s;-o-transition: all 0.4s ease 0s;transition: all 0.4s ease 0s;}
+.gototop-inner{z-index:999;position:fixed;width:40px;height:40px;background-color:#D12311;font-size:30px;line-height:35px;text-align:center;color:#FFF;top:auto;left:auto;right:15px;bottom:44px;cursor:pointer;border-radius:2px;text-shadow:0 -1px 1px rgba(0, 0, 0, 0.14);-webkit-transition: all 0.4s ease 0s;-moz-transition: all 0.4s ease 0s;-o-transition: all 0.4s ease 0s;transition: all 0.4s ease 0s;}
 .gototop-inner:hover{background-color:#F72C17;}
 ul.sosmedba li{margin:0px 0px 10px 0px;text-align:left;}
-ul.sosmedba li.ftrsosmedicon a{margin:0px 0px 0px 0px;padding:5px 5px 5px 2px;font-size:.85rem!important;font-weight:bold;color:#444444!important;letter-spacing:.064rem;text-transform:uppercase;text-decoration:none;}
-ul.sosmedba li.ftrsosmedicon a:hover{color:#F72C17!important;}
-ul.sosmedul{padding: 0px 0px 0px 0px;background:#FEFEFE;}
+ul.sosmedba li.ftrsosmedicon a{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;font-size:14px!important;font-weight:400;color:#212121!important;letter-spacing:normal;text-transform:capitalize;text-decoration:none;}
+ul.sosmedba li.ftrsosmedicon a:hover{color:#F72C17!important;background:#F9F9F9;}
+ul.sosmedul{margin:0px 0px 50px 0px;padding:0px 0px 0px 0px;background:#FEFEFE;}
 ul.sosmedul li{width:20%!important;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}
-.sosmedcov{margin:50px 0px 0px 0px;padding:0;}
+.sosmedcov{margin:40px 0px 0px 0px;padding:0;}
 .sosmed_ttle{margin:0px 0px 8px 0px;font-size:14px;font-weight:bold;letter-spacing:normal;}
+.txtsosmed_ttlemod{padding:8px 0px 0px 0px;}
 .sosmed{position:relative;height:100%;padding:0;}
 .dpttle{text-align:justify;font-size:14px;font-style:normal;font-variant:normal;font-family:"AvenirBook","Helvetica Neue",Helvetica,Arial,sans-serif;line-height:20px;letter-spacing:.1rem;}
 p.unselectable{margin:0;-webkit-touch-callout: none;-webkit-user-select: none;-khtml-user-select: none;-moz-user-select: none;-ms-user-select: none;-o-user-select: none;user-select: none;}
