@@ -145,16 +145,18 @@ h1.mainpost a{font-size:25px;font-weight:bold;color:#000;line-height:1.2;letter-
 h1.mainpost a:hover{color:#000;text-shadow:none;text-decoration:none;}
 h1.mainpostpage a{margin:25px 0px 0px 0px;display:inline-block;font-size:2rem;font-weight:bold;line-height:2rem;text-transform:capitalize;letter-spacing:normal;color:#000000;text-shadow:0 -1px 1px #fff;}
 h1.mainpostitem{margin:0px 0px 0px 0px;line-height:1.8rem;}
-h1.mainpostitem a{font-size:2rem;font-weight:bold;color:#000;line-height:2rem;letter-spacing:normal;text-transform:capitalize;width:100%;display:inline-block;text-decoration:none;}
+h1.mainpostitem a{font-size:1.5rem;font-weight:bold;color:#000;line-height:2rem;letter-spacing:normal;text-transform:capitalize;width:100%;display:inline-block;text-decoration:none;}
 h1.mainpostitem a:hover{color:#000;background:#F9F9F9;text-shadow:none;text-decoration:none;}
 h4.prdkprice{font-size:20px;}
 .post_meta_info{background:none;border:none;margin-bottom:10px;padding:0;}
 .post_meta_info span{color:#000;font-family:Georgia, "Times New Roman", Times, serif;font-size:12px;font-style:italic;line-height:1;margin-right:12px;padding:5px 5px;white-space:nowrap;text-shadow:none;background:#F9F9F9;}
-.prdkdskrp{font-weight:300;color:#000;}.prgrph{font-size:1.2rem;font-weight:normal;letter-spacing:normal;line-height:30px;color:#000;}
-.kontakdskrp{font-family:'Open Sans',arial,sans-serif;font-size:15px;font-weight:300;color:#000;}
-.cfttle{font-size:17px;font-family:'Open Sans',arial,sans-serif;line-height:30px;text-transform:uppercase;letter-spacing:.1rem;color:#169E83;text-shadow:0 -1px 1px #fff;}
+.prdkdskrp{font-weight:300;color:#000;}
+.prgrph{font-size:1rem;font-weight:normal;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;letter-spacing:normal;line-height:30px;color:#000;}
+.prgrph>h4{font-size:1.25rem;}
+.kontakdskrp{font-family:"Open Sans",arial,sans-serif;font-size:15px;font-weight:300;color:#000;}
+.cfttle{font-size:17px;font-family:"Open Sans",arial,sans-serif;line-height:30px;text-transform:uppercase;letter-spacing:.1rem;color:#169E83;text-shadow:0 -1px 1px #fff;}
 .cfttle_phonecov{font-size:15px;font-weight:400;line-height:24px;text-transform:uppercase;letter-spacing:.1rem;color:#000;text-shadow:0 -1px 1px #fff;}
-.cfttle_line{text-transform:lowercase;}ul.ulpbsub{list-style:none;}
+.cfttle_line{text-transform:lowercase;}
 ul.ulpb, ul.ulpbsub, ul.ulpbsubsub{margin:0px 0px 0px 46px;padding:0px 0px 0px 0px;text-align:justify;word-break:normal;list-style-position:outside;list-style-type:decimal;}
 a.pndnbnjint,a.pndnbnjext{color:#000;text-decoration:none;}
 a.pndnbnjint:hover{color:#1AB898;text-decoration:none;}
