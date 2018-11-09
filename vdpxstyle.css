@@ -63,7 +63,7 @@ border:2px solid #B71F0F;
 .nav-link{
 padding:22px 0rem 22px 0rem;
 font-size:15px;
-font-weight:400;
+font-weight:bold;
 color:#212121;
 text-shadow:0px -1px 1px #FFFFFF;
 }
@@ -81,6 +81,7 @@ h1.sitebrand a{
 margin:0px 0px 0px 0px;
 padding:17px 0px 24px 0px;
 font-size:24px;
+font-weight:normal;
 line-height:inherit;
 color:#D12311;
 text-decoration:none;
