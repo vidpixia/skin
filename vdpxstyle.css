@@ -218,9 +218,9 @@ a.itmcongkir:hover{color:#fff;background:#1CC5A3;}
 .widget-content.popular-posts ul.wgtppmod{margin:0px 0px 0px 0px;}
 .srchqry{width:auto;margin:0px 0px 35px 0px;padding:5px 15px 5px 15px;display:inline-block;font-family:'Open Sans',arial,sans-serif;font-size:14px;text-transform:uppercase;line-height:1;text-shadow:none;color:#000;background:#f9f9f9;}
 .srchqryerr{width:auto;margin:0px 0px 0px 0px;padding:5px 5px 5px 5px;display:inline-block;font-family:Georgia, 'Times New Roman', Times, serif;font-size:130px;font-style:italic;line-height:1;text-shadow:none;color:#FFFFFF;background:#FFFFFF;}
-#blog-pager{clear:both;margin:0px auto;padding:30px 15px 20px 15px;text-align:center;line-height:43px;}
+#blog-pager{clear:both;margin:0px auto;padding:30px 8px 20px 8px;text-align:center;line-height:43px;}
 #blog-pager-newer-link{float:left;}
-#blog-pager-newer-link a,#blog-pager-older-link a{font-family:Georgia,"Times New Roman",Times,serif;font-size:12px;font-style:italic;color:#999999;display:inline-block;text-decoration:none;}
+#blog-pager-newer-link a,#blog-pager-older-link a{padding: 0px 10px 0px 10px;font-family:Georgia,"Times New Roman",Times,serif;font-size:12px;font-style:italic;color:#999999;display:inline-block;text-decoration:none;}
 #blog-pager-newer-link a:hover,#blog-pager-older-link a:hover{text-decoration:none;color:#212121;text-shadow:none;background:#f8f8f8;}
 #blog-pager-older-link{float:right;}
 a.home-link{color: rgba(0, 0, 0, 0.3);transition: all 0.25s ease-in-out;-ms-transition: all 0.25s ease-in-out;-o-transition: all 0.25s ease-in-out;-moz-transition: all 0.25s ease-in-out;-webkit-transition: all 0.25s ease-in-out;}
