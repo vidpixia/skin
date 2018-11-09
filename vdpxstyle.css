@@ -384,9 +384,10 @@ ul.recent-posts-container li{min-height:350px;}
 .navbar-nav .open .dropdown-menu{background-color:#FEFEFE;}
 .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover{color:#333;background-color:#f8f8f8;}
 .adjsmt{width:100%;height:1px;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;display:inline-block;}
-#related-posts ul li{float:none;}
+#related-posts{padding:0px 2px 0px 2px;}
 #related-posts a.mod{float:left;width:60%;left:30%;top:0px;position:absolute;word-break:break-word;}
-.pthumb img{width:20%}#related-posts ul li{width:100%;padding:0px 20px 0px 20px;}
+.pthumb img{width:20%}
+#related-posts ul li{width:100%;padding:0px 20px 0px 20px;}
 .widget-content.list-label-widget-content ul{padding:0px 15px 0px 15px;}
 #BlogArchive1_ArchiveList ul.flat{padding:0px 15px 0px 15px;}
 }
