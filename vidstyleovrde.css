@@ -1,1 +1,10 @@
-@media (min-width: 1200px){.colheight-sm-1{height: 220px;}}
+@media (min-width: 1200px){
+.containermax{max-width:100%;padding:0px 50px 0px 50px;}
+.colheight-sm-1,.colheight-md-1 {height: 220px;}
+.colheight-sm-2,.colheight-md-2 {height: 400px;}
+.colheight-lg-2 {height: 400px;}
+}
+@media (min-width: 1540px){
+.colheight-sm-2,.colheight-md-2,.colheight-lg-2 {height:440px;}
+.colheight-xl-2 {height:440px;}
+}
